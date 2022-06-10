@@ -3,8 +3,8 @@
 <p><em>Bachelors in Computer Science<a href="http://www.unb.br">FAST NUCES UNIVERSTY</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-hatif/)](https://www.linkedin.com/in/muhammad-hatif/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/hatifmujahid)
+[![Linkedin: Hatif Mujahid](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-hatif/)](https://www.linkedin.com/in/muhammad-hatif/)
+[![GitHub Hatif Mujahid](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/hatifmujahid)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
