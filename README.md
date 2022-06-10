@@ -3,7 +3,7 @@
 <p><em>Bachelors in Computer Science<a href="http://www.unb.br">FAST NUCES UNIVERSTY</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
-[![Linkedin: Hatif Mujahid](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-hatif/)](https://www.linkedin.com/in/muhammad-hatif/)
+[![Linkedin: Hatif Mujahid](https://img.shields.io/badge/-muhammad-hatif-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-hatif/)](https://www.linkedin.com/in/muhammad-hatif/)
 [![GitHub Hatif Mujahid](https://img.shields.io/github/followers/hatifmujahid?label=follow&style=social)](https://github.com/hatifmujahid)
 
 
