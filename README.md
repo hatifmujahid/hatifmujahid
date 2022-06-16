@@ -1,6 +1,6 @@
 <h2> Hi, I'm Muhammad Hatif Mujahid! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Bachelors in Computer Science<a href="http://www.unb.br">FAST NUCES UNIVERSTY</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>Bachelors in Computer Science<a href="http://nu.edu.pk/">FAST NUCES UNIVERSTY</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
 [![Linkedin:](https://img.shields.io/badge/-Hatif_Mujahid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-hatif/)](https://www.linkedin.com/in/muhammad-hatif/)
