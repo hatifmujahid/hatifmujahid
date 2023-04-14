@@ -38,4 +38,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
 </p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/wahaj.javed.png" alt="TryHackMee">
-<img src="https://github-readme-stats.vercel.app/api?username=WahajJaved20&show_icons=true&count_private=true&theme=tokyonight" alt="WahajJaved20" />
+<img src="https://github-readme-stats.vercel.app/api?username=hatifmujahid&show_icons=true&count_private=true&theme=tokyonight" alt="hatifmujahid" />
