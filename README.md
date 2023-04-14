@@ -1,25 +1,41 @@
-<h2> Hi, I'm Muhammad Hatif Mujahid! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="230">
-<p><em>Bachelors in Computer Science<a href="http://nu.edu.pk/">FAST NUCES UNIVERSTY</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-</em></p>
+<!--TODO: ADD PORTFOLIO-->
+<h2>Hey 👋, I'm Muhammad Hatif Mujahid</h2>
 
-[![Linkedin:](https://img.shields.io/badge/-Hatif_Mujahid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-hatif/)](https://www.linkedin.com/in/muhammad-hatif/)
-[![GitHub Hatif Mujahid](https://img.shields.io/github/followers/hatifmujahid?label=follow&style=social)](https://github.com/hatifmujahid)
-
-
-- 🔭 I’m currently working on C++ | Python Programming
-- 🌱 I’m currently learning Flutter | LAMP Stack
-- 👯 I’m looking to collaborate on App Development
-<!--
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
-
+<p><a href="https://medium.com/@wahaj.javed02"><img src="https://img.shields.io/badge/-@wahaj-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@wahaj.javed02" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/wahaj-javed-20k02028/"><img src="https://img.shields.io/badge/-@wahaj-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/wahaj-javed-20k02028/" alt="LinkedIn Badge"></a> <a href=https://www.hackerrank.com/wahaj_javed"><img src="https://img.shields.io/badge/-@wahaj-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Hackerrank&amp;link=https://www.hackerrank.com/wahaj_javed" alt="Hackerrank Badge"></a>  <a href=https://codeforces.com/profile/SyntaxError20"><img src="https://img.shields.io/badge/-@SyntaxError20-yellowgreen?style=flat-square&amp;labelColor=fff&amp;logo=Codeforces&amp;link=https://codeforces.com/profile/SyntaxError20" alt="Codeforces Badge"></a> <a href="https://leetcode.com/user6969WN/"><img src="https://img.shields.io/badge/-@user6969WN-critical?style=flat-square&amp;labelColor=0077B5&amp;logo=leetcode&amp;link=https://leetcode.com/user6969WN/" alt="leetcode Badge"></a></p>
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>🔭 I’m currently working on getting into Cyber Security .</li>
+<li>🧐 Learning about <strong>Database Systems</strong>, <strong>Parallel and Distributed Architectures</strong>, and some <strong>Algorithmic Analysis</strong>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/WahajJaved20">Github</a>.</li>
+<li>💬 Ping me about <strong>React, Flutter, Solidity, and Cyber Security stuff</strong>.</li>
+<li>📙 Check out my <a href="https://drive.google.com/file/d/1lKhLUqUHpIsf4j0lTMln8WV-ZRvCgefJ/view?usp=sharing">resume</a>.</li>
+</ul>
+<h2>✒️ Recent Posts</h2>
+<details>
+    <summary>Explore</summary>
+    <li><a target="_blank" href="https://medium.com/coinmonks/how-to-work-with-floating-points-in-solidity-how-to-calculate-amortizing-loans-in-solidity-cacfeaaa2b49">How to use Floating Points in Solidity? || How to Calculate Amortizing Loans in Solidity? — August 20, 2022</a></li>
+    <li><a target="_blank" href="https://medium.com/@wahaj.javed02/acm-cys-intra-fast-ctf-challenges-67cafeb95f81">ACM Intra-Fast Capture The Flag Competition Writeup — March 20, 2023</a></li>
+</details>
+<h2>🚀 Some Tools I Use</h2>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
+</p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/wahaj.javed.png" alt="TryHackMee">
+<img src="https://github-readme-stats.vercel.app/api?username=WahajJaved20&show_icons=true&count_private=true&theme=tokyonight" alt="WahajJaved20" />
