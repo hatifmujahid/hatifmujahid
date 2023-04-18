@@ -36,4 +36,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-<img src="https://github-readme-stats.vercel.app/api?username=hatifmujahid&show_icons=true&count_private=true&theme=transparent" alt="hatifmujahid" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=hatifmujahid" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
