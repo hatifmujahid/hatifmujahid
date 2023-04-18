@@ -2,7 +2,7 @@
 <h2>Hey 👋, I'm Muhammad Hatif Mujahid</h2>
 
 <p><a href="https://medium.com/@hatifmujahid08"><img src="https://img.shields.io/badge/-@hatif-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@hatifmujahid08" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/muhammad-hatif/"><img src="https://img.shields.io/badge/-@hatif-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/hatif-mujahid/" alt="LinkedIn Badge"></a> <a href=https://www.hackerrank.com/hatifmujahid08><img src="https://img.shields.io/badge/-@hatif-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Hackerrank&amp;link=https://www.hackerrank.com" alt="Hackerrank Badge"></a>  <a href="https://leetcode.com/hatifmujahid/"><img src="https://img.shields.io/badge/-@hatifmujahid-critical?style=flat-square&amp;labelColor=0077B5&amp;logo=leetcode&amp;link=https://leetcode.com/hatifmujahid/" alt="leetcode Badge"></a></p>
-<img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
+<img align="right" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" />
 <h2>⚡️ Quick Facts</h2>
 <ul>
 <li>🥅 I’m currently working on getting into Cyber Security .</li>
