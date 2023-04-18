@@ -38,4 +38,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=hatifmujahid" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatifmujahid&layout=compact" />
