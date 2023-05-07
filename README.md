@@ -1,12 +1,16 @@
 <!--TODO: ADD PORTFOLIO-->
-<h2>Hey 👋, I'm Muhammad Hatif Mujahid</h2>
+<h2>Hey 👋, Everyone!</h2>
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=My+name+is+Hatif+Mujahid;Welcome+to+my+GitHub+Profile!;I'm+a+Web+and+App+developer;I'm+a+Cyber+Security+Enthusiast" /></a>
+</p>
 
 <p><a href="https://medium.com/@hatifmujahid08"><img src="https://img.shields.io/badge/-@hatif-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@hatifmujahid08" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/muhammad-hatif/"><img src="https://img.shields.io/badge/-@hatif-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/hatif-mujahid/" alt="LinkedIn Badge"></a> <a href=https://www.hackerrank.com/hatifmujahid08><img src="https://img.shields.io/badge/-@hatif-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Hackerrank&amp;link=https://www.hackerrank.com" alt="Hackerrank Badge"></a>  <a href="https://leetcode.com/hatifmujahid/"><img src="https://img.shields.io/badge/-@hatifmujahid-critical?style=flat-square&amp;labelColor=0077B5&amp;logo=leetcode&amp;link=https://leetcode.com/hatifmujahid/" alt="leetcode Badge"></a></p>
-<img align="right" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" />
+
 <h2>⚡️ Quick Facts</h2>
+<img align="right" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" />
 <ul>
 <li>🥅 I’m currently working on getting into Cyber Security .</li>
-<li>🌠 Learning about <strong>Database Systems</strong>, <strong>Parallel and Distributed Architectures</strong>, and some <strong>Algorithmic Analysis</strong>.</li>
+<li>🌠 Learning about <strong>Database Systems</strong>,<strong>Parallel and Distributed Architectures</strong>, and <strong>Algorithmic Analysis</strong>.</li>
 <li>🎯 Most of my projects are available on <a href="https://github.com/hatifmujahid">Github</a>.</li>
 <li>🏹 HMU about <strong>React, Flutter, and Cyber Security</strong>.</li>
 <li>💼 Check out my <a href="https://drive.google.com/file/d/1-yO3isAFhd3J8GV_eWawnuswEvRnuain/view?usp=share_link">resume</a>.</li>
