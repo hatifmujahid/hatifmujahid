@@ -21,9 +21,7 @@
     <li><a target="_blank" href="https://medium.com/@hatifmujahid08/write-up-for-intra-fast-ctf-forensics-and-reverse-egineering-109864551bdb">Write-up for Intra-FAST CTF</a></li>
     <li><a target="_blank" href="https://medium.com/@hatifmujahid08/how-to-make-container-a-button-in-flutter-68ca5942a59a">Making container a button in flutter</a></li>
 </ul>
-<br>
-[![tryhackme stats](https://raw.githubusercontent.com/hatifmujahid/hatifmujahid/master/assets/thm_propic.png)][tryhackme]  
-[![](https://visitcount.itsvg.in/api?id=hatimujahid&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
+![](https://github.com/hatifmujahid/hatifmujahid/blob/0304a76f2d30db0fbe220b90dbc7103507daffe4/assets/thm_propic.png)
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
@@ -46,3 +44,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=hatifmujahid" /><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatifmujahid&layout=compact" /><br>
+[![](https://visitcount.itsvg.in/api?id=hatimujahid&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
