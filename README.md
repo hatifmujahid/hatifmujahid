@@ -17,7 +17,8 @@
     <li><a target="_blank" href="https://medium.com/@hatifmujahid08/write-up-for-intra-fast-ctf-forensics-and-reverse-egineering-109864551bdb">Write-up for Intra-FAST CTF</a></li>
     <li><a target="_blank" href="https://medium.com/@hatifmujahid08/how-to-make-container-a-button-in-flutter-68ca5942a59a">Making container a button in flutter</a></li>
 </ul>
-<a href=https://raw.githubusercontent.com/hatifmujahid/hatifmujahid/master/assets/thm_propic.png></a>
+
+[![tryhackme state](https://raw.githubusercontent.com/hatifmujahid/hatifmujahid/master/assets/thm_propic.png)][tryhackme]
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
