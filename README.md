@@ -9,8 +9,8 @@
 <h2>⚡️ Quick Facts</h2>
 <img align="right" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" />
 <ul>
-<li>🥅 I’m currently working on getting into Cyber Security .</li>
-<li>🌠 Learning about <strong>Database Systems</strong>,<strong>Parallel and Distributed Architectures</strong>, and <strong>Algorithmic Analysis</strong>.</li>
+<li>🥅 I’m currently working on getting into Cyber Security.</li>
+<li>🚪 I like doing backend development</li>
 <li>🎯 Most of my projects are available on <a href="https://github.com/hatifmujahid">Github</a>.</li>
 <li>🏹 HMU about <strong>React, Flutter, and Cyber Security</strong>.</li>
 <li>💼 Check out my <a href="https://drive.google.com/file/d/1eVv3tqRd2OFzfrfcBLTgkzqfkKx_Ue7p/view?usp=sharing">resume</a>.</li>
