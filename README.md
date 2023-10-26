@@ -11,7 +11,7 @@
  <h1>Let's Learn, Grow and Connect</h1>
 
 <a  href="https://www.linkedin.com/in/muhammad-hatif" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/samipak458?wt.mc_id=studentamb_202028" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="https://twitter.com/mujahid_hatif" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:hatifmujahid08@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a  href="https://github.com/hatifmujahid"><img alt=" Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 
@@ -49,7 +49,7 @@
 I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
 <br><br>
 <!-- <h1 align="center">Projects</h1> -->
-<table bordercolor="#66b2b2">
+<!-- <table bordercolor="#66b2b2">
 
 <tr>
   <td width="50%" valign="top">
@@ -194,7 +194,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
         <p><strong>HTML5, CSS3, & Javascript</strong> - Tic-tac-toe is a classic two-player game that, if both players play their best, will always finish in a tie. The game is also known as Xs and Os or noughts and crosses.</p>
     </td>
   </tr>   
-</table>
+</table> -->
 
 ### I love to collaborate on any project especially open source projects. 
   
@@ -229,6 +229,4 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 ---
 ![p4p1's tryhackme stats](https://raw.githubusercontent.com/hatifmujahid/hatifmujahid/master/assets/thm_propic.png)
 
-<img src="https://github-readme-stats.vercel.app/api?username=hatifmujahid" /><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatifmujahid&layout=compact" /><br>
 [![](https://visitcount.itsvg.in/api?id=hatimujahid&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
